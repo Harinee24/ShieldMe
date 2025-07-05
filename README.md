@@ -48,7 +48,7 @@ The application consists of the following components:
    Developed 80% of key functionalities, including Authentication, SOS Alerts, Journals, and Positive Affirmations, streamlining user interactions and ensuring seamless feature integration.
   
 - **Integrated Frontend and Backend Systems**  
-   Achieved 100% integration of frontend and backend systems, optimizing real-time user interactions and enhancing security for a seamless user experience.  
+   Achieved 100% integration of frontend and backend systems, optimizing real-time user interactions and enhancing security for seamless user experience.  
 
 
 ### Yash Raj 
